@@ -8,6 +8,8 @@ content on the interwebs which draws visitors because of its richness and profes
 wants to create an application for hosting recipes. The application will start as a read-only website containing a small set of recipes, will integrate with 3rd party identity providers, and will eventually allow the public at large to add content.
 
 1. [Milestone 1: "GoGoGo"] (https://github.com/pbrumblay/recipes/wiki/Milestone-1:-GoGoGo)
-1. [Milestone 2: "Who Are You?"] (https://github.com/pbrumblay/recipes/wiki/Milestone-1:-GoGoGo)
+1. [Milestone 2: "Who Are You?"] (https://github.com/pbrumblay/recipes/wiki/Milestone-2:-Who-are-you%3F)
+1. [Milestone 3: "CRUD"] (https://github.com/pbrumblay/recipes/wiki/Milestone-2:-Who-are-you%3F)
+1. [Milestone 4: "User's Love Selfies"] (https://github.com/pbrumblay/recipes/wiki/Milestone-2:-Who-are-you%3F)
 
 
