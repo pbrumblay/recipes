@@ -10,6 +10,6 @@ wants to create an application for hosting recipes. The application will start a
 1. [Milestone 1: "GoGoGo"] (https://github.com/pbrumblay/recipes/wiki/Milestone-1:-GoGoGo)
 1. [Milestone 2: "Who Are You?"] (https://github.com/pbrumblay/recipes/wiki/Milestone-2:-Who-are-you%3F)
 1. [Milestone 3: "CRUD"] (https://github.com/pbrumblay/recipes/wiki/Milestone-3:-CRUD/)
-1. [Milestone 4: "Users Love Selfies"] (https://github.com/pbrumblay/recipes/wiki/Milestone-2:-Who-are-you%3F)
+
 
 
